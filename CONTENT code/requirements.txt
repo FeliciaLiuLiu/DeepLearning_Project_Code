@@ -1,0 +1,9 @@
+urllib3
+pandas
+numpy===1.20.3
+zipfile36
+matplotlib
+theano
+lasagne
+sklearn
+psutil
